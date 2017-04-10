@@ -1,0 +1,7 @@
+#Mon Apr 10 00:46:38 EDT 2017
+base.0=/Users/samcholo/Desktop/ElegantTheme/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_177a9617d4836d7efbcfc9e62c8c83fac8e1e0fd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/samcholo/Desktop/ElegantTheme/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8431bd00579a08c77883bfa7fe23a434ff181c8c/classes.dex
+base.1=/Users/samcholo/Desktop/ElegantTheme/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8431bd00579a08c77883bfa7fe23a434ff181c8c
+file.0=/Users/samcholo/Desktop/ElegantTheme/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_177a9617d4836d7efbcfc9e62c8c83fac8e1e0fd/classes.dex
